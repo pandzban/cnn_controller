@@ -12,7 +12,7 @@ Input and output values can be accessed by word, with use of req and valid signa
 The top schematic can be seen below:
 ![mass statistics of network learning](https://i.postimg.cc/0y80YDcw/schematic.png)
 
-
+There is posted the generated Verilog file aswell.
 
 It was done for my university project called "Digital design using high level Hardware Description Languages".
 I used MyHDL package for Python, allowing me to use more abstract functional and structural description of my module.
