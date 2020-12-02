@@ -1,5 +1,5 @@
 # cnn_controller
-Project of controller managing convolutional neural network layer computations. 
+Project of controller managing convolutional neural network layer computations in high level HDL. 
 
 Layer has fixed number of outputs, dependent on the size of input matrix.
 The input, output and filter are 2D mapped memories, meaning that they are addressed by columns and rows, as seen on a raster image.
