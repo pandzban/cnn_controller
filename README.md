@@ -14,5 +14,5 @@ The top schematic can be seen below:
 
 There is posted the generated Verilog file aswell.
 
-It was done for my university project called "Digital design using high level Hardware Description Languages".
+It was done as project for my university course called "Digital design using high level Hardware Description Languages".
 I used MyHDL package for Python, allowing me to use more abstract functional and structural description of my module.
