@@ -10,7 +10,7 @@ The stride parameter is equal 1 and zero padding is not used in this implementat
 Input and output values can be accessed by word, with use of req and valid signals.
 
 The top schematic can be seen below:
-
+![mass statistics of network learning](https://i.postimg.cc/0y80YDcw/schematic.png)
 
 
 
